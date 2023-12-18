@@ -1,0 +1,42 @@
+.container1{
+    display: flex;
+    justify-content: space-between;
+    padding-top: 20px;}
+.kuning{
+    height: 150px;
+    width: 150px;
+    border: 1px dotted;
+    background-color: greenyellow;}
+.oren{
+    height: 150px;
+    width: 1070px;
+    border: 1px dotted;
+    background-color: orange;}
+.container2{
+    display: flex;
+    justify-content: space-between;
+    padding-top: 20px;}
+.hijau{
+    height: 500px;
+    width: 150px;
+    border: 1px solid;
+    background-color: rgb(7, 134, 7);}
+.hitam{
+    height: 500px;
+    width: 900px;
+    border: 1px solid;
+    background-color: rgb(125, 127, 125);}
+.biru{
+    height: 500px;
+    width: 150px;
+    border: 1px solid;
+    background-color: rgb(66, 154, 243);}
+.container3{
+    display: flex;
+    justify-content: space-between;
+    padding-top: 20px;}
+.birutua{
+    height: 150px;
+    width: 100%;
+    border: 1px solid;
+    background-color: rgb(37, 2, 163);}
